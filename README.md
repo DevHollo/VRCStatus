@@ -1,6 +1,6 @@
 # VRCStatus
 
-To use you must have python.<br>
+To use you must have **Python 3.14.2** or newer.<br>
 
 ---
 Once you have python, extract the zip and cd into the extracted folder than run:
