@@ -1,0 +1,4 @@
+psutil==7.2.1
+nvidia-ml-py==13.590.44
+PyYAML==6.0.3
+python-osc==1.9.3
